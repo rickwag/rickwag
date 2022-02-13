@@ -1,6 +1,3 @@
-
-## Hi, I'm a lifelong tech student and I love everything coding
-
 <!--
 **rickwag/rickwag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
