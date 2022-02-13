@@ -1,4 +1,3 @@
-<img src="shubham-dhage-t0Bv0OBQuTg-unsplash.jpg" alt="cover photo" height=500/>
 
 ## Hi, I'm a lifelong tech student and I love everything coding
 
