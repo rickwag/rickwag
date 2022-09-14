@@ -1,4 +1,4 @@
-[![MasterHead](http://tmokk5.co.za/images/Web%20Development.gif)]
+[![MasterHead](http://tmokk5.co.za/images/Web%20Development.gif)]()
 
 <h1 align="center">Hi 👋, I'm Patrick</h1>
 <h3 align="center">A passionate web developer</h3>
